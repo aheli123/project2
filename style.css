@@ -1,0 +1,67 @@
+.nav{
+    background-color: black;
+}
+.r1{
+    height: 700px;
+    width: 100px;
+    padding: 20px;
+    background-size: cover;
+
+}
+.r2{
+    height: 800px;
+    width: 1500px;
+    background-color: black;
+
+}
+.r3{
+width: 100%;
+height: 50%;
+display: flex;
+background-color: black;
+}
+.r3c1{
+    flex: 50%;
+    padding: 5px;
+    padding-top: 20px;
+    padding-left: 30px;
+   
+}
+.r3c2{
+    flex: 50%;
+    padding: 5px;
+    padding-top: 20px;
+    padding-left: 30px;
+   
+}
+.r4{
+    width: 100%;
+height: 50%;
+display: flex;
+background-color: black;
+
+}
+.r4c1{
+    flex: 50%;
+    padding: 5px;
+    padding-top: 20px;
+    padding-left: 30px;
+   
+}.r4c2{
+    flex: 50%;
+    padding: 5px;
+    padding-top: 20px;
+    padding-left: 30px;
+   
+}
+.btn{
+    padding: 3px 8px;
+    font-weight: bold;
+    background-color: red;
+    color: aliceblue;
+    border-radius: 8px;
+    height: 40px;
+    width: 60px;
+}
+
+
